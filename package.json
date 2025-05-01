@@ -1,0 +1,12 @@
+{
+    "name": "threejs-lighthouse",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite"
+    },
+    "dependencies": {
+        "three": "^0.160.0",
+        "vite": "^6.3.4"
+    }
+}
