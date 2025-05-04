@@ -10,7 +10,7 @@
 
 ## 🧭 Progress by Section
 
-- [ ] Section 1 - Welcome
+- [x] Section 1 - Welcome
 - [ ] Section 2 - Getting Started with Python
 - [ ] Section 3 - The Basics: Data Types
 - [ ] Section 4 - The Basics: Operations with Data Types
@@ -55,20 +55,32 @@
 
 ### 📘 Section 1 - Welcome
 
-**Date:** 2025-05-01  
-**Summary:**
-- What Python is and how to install it.
-- Running basic Python code using the terminal.
-  
+**Date:** 2025-05-04
+**Summary:*
+The introduction is about the main topics of the course and teacher Ardit Sulce. He is a programmer and freelancer who has worked on Udemy for six years. He explained that we will learn how and why to use different types of Python code. The main points he gave us are dedication, code writing, and improving code. Ardit recommended two paths to take when we get stuck: Stack Overflow and Udemy.com, as well as the Q&A section on the Udemy platform. These resources can help us find answers to specific topics. He also provided us with helpful resources, such as: Daily Python Projects (https://dailypythonprojects.substack.com), Python Chat Community (https://substack.com/chat/2286155).
+
 **New Commands:**
+No yet
 
 **New Vocabulary:**
-|Term              |Meaning                     |Example                      |
-|------------------|-----------------------------|-----------------------------|
+|Term               |Meaning                            |Example                                                    |
+|-------------------|-----------------------------------|-----------------------------------------------------------|
+|Ground             |Base / Fundamento                  |Before you start coding, you need a solid ground in logic and algorithms|
+|Scraping           |Extracción / Raspado de datos      |We used Python for web scraping to collect product prices from Amazon  |
+|Loop               |Bucle / Ciclo                      |Use a for loop to iterate over the array   |	
+|Succeed            |Tener éxito / Lograr               |If the API call succeeds, it returns a 200 status code    |	
+|Stuck              |Atascado / bloqueado	            |I’m stuck trying to debug this function — it keeps throwing an error   |
+|Fix                |Arreglar / corregir / solucionar   |We need to fix the login bug before the release    |
+|Boost              |Impulsar / mejorar / aumentar      |This caching strategy will boost the app’s performance by 40%          |
+|Throwing	        |Lanzando / generando / arrojando (un error)    |The function is throwing a TypeError       |
+|Release            |Lanzamiento / versión / liberar    |The team will release the new update tomorrow.         |
 
 **New Expressions:**
-|Expression                 |Meaning                                           |
-|You're off to a great start | You are starting well                           |
+|Expression                     |Meaning                |Example                                |                                               
+|You're off to a great start    |You are starting well  |You're off to a great start with Python for data analysis!     |
+|So on                          |Así sucesivamente      |You can call functions like map, filter, reduce, and so on |
+|Hands on                       |Práctico / Con experiencia directa	    |This is a hands-on course — you’ll build real applications |
+
 
 
 ### 📘 Section 2 - Getting Started with Python
