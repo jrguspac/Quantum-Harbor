@@ -85,19 +85,65 @@ No yet
 
 ### 📘 Section 2 - Getting Started with Python
 
-**Date:**  
+**Date:**  2025-05-10
 **Summary:**  
+Section 2: 
+Why IDE?
+
+In the first part we installed IDE and Python and learned about what IDE is, this last one is an interpreter that help us to write code easier, we will use VSC, it is a teacher's recommendation because it is lightening, advanced text editor and there are a lot of useful facilities. Next we start CPython with the basic topics using VSC, for example we have to install some extensions to be able to work in it, but before we have to create a file in our PC to start coding, First we created a folder called "First Project", then we open a folder from VSC to start practicing our functions with Python. A first project is just an empty directory. After that Ardit mentioned some recommendations such as using ".py" but it is not mandatory, also we should avoid using spaces instead we could use an underscore to name a file or folder.
+
+Then he taught us how to run our project. One of them is typing: "py -3" and the name of the project, but we have to save it, because if you run it without saving the project won't show anything because it is empty, then we saved and give the command, it will work with the terminal of the IDE. However, it is useful to synchronize CPython's extension, because we can use the run button to show the output without writing a code "py -3", instead of clicking a button and we can see the results on the terminal. But if we have previously named the file with a ".py". Also if we can use or create a new project, we go to the toolbar, select File, open folder and right click, new folder and name it and select the new empty folder so you can start to code for a new project.
+
+The teacher illustrated us an example of a tribe in the Amazon, where we need to communicate with a cooker to get food, but he is from this tribe and they have a strange languaje, it means we need someone who speak like them, in other words an interpreter, it is because we need to translate our requests to get some results, the same way Python works, because it is an interpreter between us and a processos, but here we use folders, files and commands to show outputs displays.
 
 **New Commands:**  
+- print(): It is to show up on the screen the result of your commands. 
+#### List of Math Operators:
+**Addition (+)**
+print(3 + 4)
+Output: 7
+**Subtraction (-)**
+print(3 - 4)
+Output: -1
+**Multiplication (*)**
+print(3 * 4)
+Output: 12
+**Division (/)**
+print(3 / 4)
+Output: 0.75
+**Floor Division (//)**
+print(9 // 2)
+Output: 4
+Explanation: This operator give you the whole number, it does not include decimals
+**Modulus (%)**
+print(9 % 2)
+Output: 1
+Explanation: This operator gice you tha number tha leave to complete a first number, it could be the whole number that leave to arrive a result.
+**Math Explanation for both (// & %)** 
+9/2 = 4.5
+4 It´s a Floor Division, but to arrive to 9 (4*2=8) we need the Modulus to complete the equation so it is "1"
+**Exponentiation ** |**
+print(3 ** 4)
+Output: 81
+Explanation: 3 ** 4 is the equivalent of 3 * 3 * 3 * 3.
+
 
 **New Vocabulary:**
 |Term              |Meaning                     |Example                      |
-|------------------|-----------------------------|-----------------------------|
+|-----------------|----------------------------------|-----------------------------|
+|Request          |Ask for something                 |The client sends a request to the server for data |
+|Root directory   |The main folder for our project   |I might create index.html in the root directory   |
+|Backslash        |"/"                               |                                                  |
+|Output           |Results for a code                |The output from print(3-4) is 7                   |
+|Features         |Characteristics                   |VSC has a lot of characteristics to code easily   |
+|Instead of       |En lugar de                       |We use ".py" instead of ".txt"                    |
+|Due to           |Debido a                          |The run button did not work due to Python extension was not installed
+
 
 **New Expressions:**
 |Expression                 |Meaning
-|---------------------------|------------------------
-|You're off to a great start|You are starting well
+|---------------------------|------------------------|
+|                           |                        |
 
 
 ```  // Safely close any previously unclosed code blocks
